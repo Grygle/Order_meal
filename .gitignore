@@ -8,3 +8,4 @@ order_meal/public/robots.txt
 **/.eslintcache
 **/node_modules/**
 order_meal/package-lock.json
+order_meal/src/assets/meal.jpeg
