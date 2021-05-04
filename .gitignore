@@ -1,0 +1,10 @@
+
+.DS_Store
+order_meal/public/favicon.ico
+order_meal/public/logo192.png
+order_meal/public/logo512.png
+order_meal/public/manifest.json
+order_meal/public/robots.txt
+**/.eslintcache
+**/node_modules/**
+order_meal/package-lock.json
