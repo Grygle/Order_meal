@@ -6,9 +6,12 @@ const MealItem = (props) => {
         <li>
             <div>
                 <h3>{props.name}</h3>
-                <div>{props.description}</div>
+                <div className={styles.description}>{props.description}</div>
+                <div className={styles.price}>{price}</div>
             </div>
-            <div>{price}</div>
+            <div></div>
         </li>
     );
 };
+
+export default MealItem;
